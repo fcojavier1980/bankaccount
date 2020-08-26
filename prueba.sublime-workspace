@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"texto_2"
+			],
+			[
+				"point",
+				"point1"
+			],
+			[
+				"input",
+				"input_city"
+			],
+			[
+				"inpu",
+				"input_city"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"lon",
+				"longitud1_city_pinta"
+			],
+			[
+				"el",
+				"elem2b"
+			],
+			[
+				"elem",
+				"elem1b"
+			],
+			[
+				"ele",
+				"elem1_fix"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"la",
+				"latitud1_city"
+			],
+			[
+				"co",
+				"coords"
+			],
+			[
+				"coorde",
+				"coordenadas_finales"
+			],
+			[
+				"coor",
+				"coords_fixed"
+			],
+			[
+				"c",
+				"coords"
+			],
+			[
+				"coo",
+				"coords"
+			],
+			[
+				"cor",
+				"coords"
+			],
+			[
+				"js",
+				"js_array"
+			],
+			[
+				"ja",
+				"javascript_array"
+			],
+			[
+				"dat",
+				"datos_initial_city"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"geo",
+				"geoapify_maps_array"
+			],
+			[
+				"geoap",
+				"geoapify_maps_json"
+			],
+			[
+				"gea",
+				"geoapify_maps_url"
+			],
+			[
+				"long",
+				"longitud1"
+			],
+			[
+				"lat",
+				"latitud1"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"go",
+				"google_maps_json"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"goo",
+				"google_maps_url"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"o",
+				"order_desc"
+			],
+			[
+				"te",
+				"textos_ordenados"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"id_",
+				"id_nueva"
+			],
+			[
+				"cha",
+				"change_id"
+			],
+			[
+				"da",
+				"datos_php"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"id",
+				"id_to_action_1"
+			],
+			[
+				"sor",
+				"sort_col"
+			],
+			[
+				"textos",
+				"textos_col_map"
+			],
+			[
+				"text",
+				"text_to_find"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"col",
+				"col_0_text"
+			],
+			[
+				"to",
+				"total_keys_action1"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"se",
+				"search_films"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"key",
+				"keys_data"
+			],
+			[
+				"ke",
+				"keys_data"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"search",
+				"search_list"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"sea",
+				"search_input"
+			],
+			[
+				"do",
+				"doSearch"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"CO",
+				"CORRECTO"
+			],
+			[
+				"headers",
+				"headers_sent"
+			],
+			[
+				"is_",
+				"is_file"
+			],
+			[
+				"spl",
+				"spl_autoload_register"
+			],
+			[
+				"foto",
+				"fotograma_id1"
+			],
+			[
+				"vi",
+				"videourl"
+			],
+			[
+				"cu",
+				"current_videourl"
+			],
+			[
+				"ne",
+				"new_array_images"
+			],
+			[
+				"arr",
+				"arrayJS"
+			],
+			[
+				"d",
+				"data_arr"
+			],
+			[
+				"new",
+				"new_genre"
+			],
+			[
+				"send",
+				"send_multiplo_id_container"
+			],
+			[
+				"sub",
+				"sub-form"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/proyectos/pruebas"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/proyectos/public_html_api/index.php",
+		"/C/Users/Javi/Desktop/geoplugin.class/geoplugin.class.php",
+		"/C/Users/Javi/Desktop/geoplugin.class/index.php",
+		"/C/Users/Javi/Desktop/ip-info/index.php",
+		"/C/Users/Javi/Desktop/geoip2.phar",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/framework/Model/ModelRouter.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Controllers/CineController.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/config.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/functions/list_helper.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_search_list.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/search_list.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_add_film.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/inicio.php",
+		"/C/Users/Javi/Desktop/bdensayo(1).sql",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/search_list_old.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/css/new-dessign.css",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/functions/js_functions.js",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/functions/list_helper_js.js",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_film_sheet.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_inicio.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/search_simple.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/classes/Makelist.php",
+		"/C/xampp/htdocs/proyectos/primeraVistaFramework/SourceFiles/app/Views/demo/searcher.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/functions/helpers.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/classes/Redirect.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/framework/Model.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/veralgo.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_search_list_fake.php",
+		"/C/xampp/htdocs/proyectos/primeraVistaFramework/SourceFiles/app/Views/demo/listado_gastos.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/index.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/add_film.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/config_fake.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Controllers/Redirect.php",
+		"/C/xampp/htdocs/proyectos/primeraVistaFramework/SourceFiles/framework/Model/ModelRouter.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/edit_view.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/framework/Model/connection_bdensayo.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/classes/Autoloader.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/classes/Retrostart.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_edit.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_login.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/register.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_register.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Controllers/DemoController.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/m/m_delete.php",
+		"/C/xampp/htdocs/proyectos/retroceluloide/primeraVistaFrameworkCine/SourceFiles/app/Views/layouts/layout.php",
+		"/C/Users/Javi/Desktop/Views/css/new-dessign.css",
+		"/C/Users/Javi/Desktop/Views/cine/inicio.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/app/m/m_inicio_new.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/inicio_new.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/edit_view.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/app/Views/cine/film_list.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/framework/Model/ModelRouter.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/framework/Model/connection_bdensayo.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/index.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/framework/Model.php",
+		"/C/xampp/htdocs/retroceluloide/public_html/primeraVistaFrameworkCine/SourceFiles/app/Views/css/new-dessign.css",
+		"/C/xampp/htdocs/public_html/primeraVistaFrameworkCine/SourceFiles/framework/Model.php",
+		"/C/xampp/htdocs/public_html/index.php",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/LancerR/LancerR_gears.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/Lancer_Common.mas",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/LancerR/LancerR_damage.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/LancerR/LancerR_cockpitinfo.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/LancerR/LancerR_Upgrades.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/LancerR/LancerR_Spinner.gen",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/LancerR/LancerR_maps.mas",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/Plugins/GrindingTranny.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Stock Car Extreme/GameData/Vehicles/MIT/LancerR/LancerR_HeadPhysics.ini"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prueba.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
